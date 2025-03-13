@@ -16,4 +16,5 @@ Welcome to **HaggisHackers**, a collective of secondary school makers, coders, a
 ## 🌍 Connect  
 Want to chat, brainstorm, or show off your latest project?  
 🔗 No discord yet... :(
+
 📢 Follow our projects here on GitHub!  
